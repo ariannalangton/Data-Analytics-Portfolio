@@ -110,10 +110,6 @@ This section provides a brief overview of each project, highlighting the technol
 
 ### Analyzing TikTok Video Statistics
 
-**Code:** 
-[(TikTok Claim Analysis)](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/pythonProjects/misc_statisticalAnalysisProjects/tiktok_claim_analysis/tiktok_video_stats.ipynb)
-[(Claim Hypthosesis Testing)](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/pythonProjects/misc_statisticalAnalysisProjects/tiktok_claim_analysis/tiktok_hypothesis_testing.ipynb)
-
 **Dashboard:** [(EDA of TikTok Claim Classification)](https://public.tableau.com/app/profile/arianna.langton5684/viz/EDAofTiktokClaimClassification/Story1)
 
 **Goal:** Use skills to clean and investigate data following EDA process. Analyze data for TikTok videos and discover trends.
@@ -128,9 +124,6 @@ This section provides a brief overview of each project, highlighting the technol
 
 ### Analyzing Marketing Campaigns on Different Platforms
 
-**Code:** [(General Analysis)](https://github.com/ariannalangton/Portfolio/blob/main/marketing_budget_analysis/linearRegression_TVbudget_sales.ipynb)
-[(Radio vs Sales Analysis)](https://github.com/ariannalangton/Portfolio/blob/main/marketing_budget_analysis/linearRegression_radioBudget_sales.ipynb)
-
 **Goal:** Anlyze data for trends between sales and allocated budget using linear regression. Select the platform with the best relationship between budget and sales generated to recommend for further invesetment.
 
 **Description:** For this activity, I will explore the relationship between marketing promotional budgets and sales using linear regression. The dataset provided includes information about the budget allocated for marketing campaigns across TV, radio, and social media, as well as how much revenue in sales was generated from these campaigns. I will select the platforms that have the most promising relationship between sales and budget and investigate further. After the general analysis, I will also explore the relationship between the radio promotion budget and the sales revenue. Based on this information, decisions about where to focus future marketing efforts will be made, so it is critical to have a clear understanding of the relationship between the different types of marketing and the revenue they generate. 
@@ -144,11 +137,6 @@ This section provides a brief overview of each project, highlighting the technol
 
 ### Analyzing Industries and Countires for Investments
 
-**Code:** 
-[(Investment Analysis)](https://github.com/ariannalangton/Portfolio/blob/main/unicorn_investment_analysis/inevstor_analysis.ipynb)
-[(Unicorn Company Analysis)](https://github.com/ariannalangton/Portfolio/blob/main/unicorn_investment_analysis/unicorn_companies.ipynb)
-[(Unicorn Company Trends Analysis)](https://github.com/ariannalangton/Portfolio/blob/main/unicorn_investment_analysis/time_to_unicorn_analysis.ipynb)
-
 **Goal:** Use skills to clean and investigate data following EDA process. Analyze data for companies in different industries and countries as well as data trends, and find 'Unicorn Companies.'
 
 **Description:** I provided insights to an imaginary investing firm. To help them decide which companies to invest in next, the firm wants insights into unicorn companies–companies that are valued at over one billion dollars. The data I used for this task provides information on over 1,000 unicorn companies, including their industry, country, year founded, and select investors. The investor wants companies in the hardware industry based in Beijing, San Francisco, and London. They also want to investigate companies in the artificial intelligence industry based in London. They requested a list of the top 20 countries sorted by company valuations in each country as well as a global valuation map of all countries except United States, China, India, and United Kingdom. In addition, I used this information to gain insights into how and when companies reach this prestigious milestone and to make recommendations for next steps to the investing firm. The investor was particularly interested in understanding the patterns and timing of when companies achieve unicorn status, so I analyzed the data across various timeframes, including years, months, weeks, and quarters.
@@ -161,11 +149,6 @@ This section provides a brief overview of each project, highlighting the technol
 The analysis identified eight companies in the Hardware and AI industries that meet the criteria: Bitmain, Global Switch, Chipone, Density, BenevolentAI, Geek+, TERMINUS Technology, and Tractable. The top five countries by valuation are Germany, Sweden, Australia, France, and Canada. A plot of the top 20 companies is available in the notebook. Europe shows a high concentration of unicorns in a specific region. The dataset includes 1,074 unicorn companies, some of which took longer to reach $1 billion due to factors like funding needs or business model development. The highest concentration of unicorn startups occurred in 2015. Companies founded more recently tend to reach unicorn status faster. In 2021, Week 37 (third week of September) saw the highest number of companies achieving a $1 billion valuation, followed by a decline in unicorns afterward.
 
 ### Air Quality Probability Density
-**Code:** 
-[(Air Quality Inital Sampling)](https://github.com/ariannalangton/Portfolio/blob/main/air_quality_index_analysis/AQI_sampling.ipynb)
-[(Air Quality Probability Density)](https://github.com/ariannalangton/Portfolio/blob/main/air_quality_index_analysis/airQuality_probabilityDistrib.ipynb)
-[(Air Quality Confidence Intervals)](https://github.com/ariannalangton/Portfolio/blob/main/air_quality_index_analysis/AQI_confidence_intervals.ipynb)
-[(Air Quality Hypothesis Testing)](https://github.com/ariannalangton/Portfolio/blob/main/air_quality_index_analysis/hypothesis_testing_practice.ipynb)
 
 **Goal:** Use skills to find what probability distribution fits the data, then use Z-score to find outliers, and finally use hypothesis tests and confidence intervals to check for statistical significane. 
 
@@ -178,7 +161,6 @@ The analysis identified eight companies in the Hardware and AI industries that m
 **Results:** Overall, I discovered that the distribution of the aqi_log data is approximately normal. In addition, using statistical methods such a z-scores, it was determined that the site at West Phoenix has worse air quality than the other sites, and is an outlier who should be considered for support. Upon further analysis, I also identified at the 5% significance level that the Los Angeles mean AQI was statistically different from the rest of California, the confidence interval at the 95% level of confidence from this sample data yielded [10.36 , 13.88], which provides the interpretation "given the observed sample AQI measurements, there is a 95% confidence that the population mean AQI for California was between 10.36 and 13.88.” This range is notably greater than 10, and thus should be considered to receive support. In addition, it was appeared that Michigan had an AQI over 10, but upon further teseting I was unable to conclude at the 5% significance level that Michigan's mean AQI was greater than 10, and am unable to recommend it for support.
 
 ### Literacy Data Probability Density
-**Code:** [(Literacy Data Probability Density)](https://github.com/ariannalangton/Portfolio/blob/main/normal_distrib_literacyData.ipynb)   
 
 **Goal:** Use skills to find what probability distribution fits the data, and then use Z-score to find outliers. One of the main goals is to determine which district has the lowest literacy scores.
 
@@ -191,7 +173,6 @@ The analysis identified eight companies in the Hardware and AI industries that m
 **Results:** Overall, I discovered that the distribution of the aqi_log data is approximately normal. In addition, using statistical methods, it was determined that districts 434 and 494 have Z-scores less than -3, and so are outliers. As a result, there should be more focus on those districts to improve the literacy score.
 
 ### Analyzing Meteroite Landings Recorded by NASA
-**Code:** [(NASA_Meteorite_data_analysis.ipynb)](https://github.com/ariannalangton/Portfolio/blob/main/NASA_Meteorite_data_analysis.ipynb)
 
 **Goal:** Use skills to clean and investigate data following EDA process. Find and analyze most common mass, year, geographical location, name type, and meteorite class.
 
@@ -204,7 +185,6 @@ The analysis identified eight companies in the Hardware and AI industries that m
 **Results:** Using Python functions the analysis revealed that the year with the most meteorites was 1998. However, the year with the most missing data was 2004 and was followed closely by 2003, which could have skewed the data. For location, the most common spot was (0,0), which is most likely an error. The second most common was in Antarctica. The average mass of all the meteorites was 14020 grams. The average mass was also calcualted for year as well as meteroite class. Ofcourse there are many other characteristics that could have been investigated, but this was enough for my goal.
 
 ### Chaotic Systems of Differenital Equations
-**Code:** [(Chaotic differential Systems of Equations)](https://github.com/ariannalangton/Portfolio/blob/main/chaotic_systems/Chaotic_Systems.ipynb)
 
 **Goal:** Simulate and solve three different chaotic systems of ordinary differential equations; Lorenz, Chua, Rössler. Discover what inital conditions, or coefficients, cause the system to become chaotic attractors. An attractor describes a state to which a dynamical system evolves after a long enough time.
 
@@ -213,13 +193,11 @@ The analysis identified eight companies in the Hardware and AI industries that m
 
 **Technology:** Python, Pandas, Numpy, Matplotlib, SciPy, mpl_toolkits.mplot3d
 
-**Results:** [(Results Report)](https://github.com/ariannalangton/Portfolio/blob/main/chaotic_systems/chaotic%20attractors%20results.pdf)
-
 ## SQL
 
 ### Generating and Analyzing Business Data
 
-**Files:** [(Generated Business Folder)](https://github.com/ariannalangton/Portfolio/blob/main/generated_business/README.md) <br>
+**Files:** [(Generated Business Folder)](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/businessInsights/README.md) <br>
 **Dashboard:** [(Tableau Dashboards for Questions)](https://public.tableau.com/app/profile/arianna.langton5684/viz/GeneratedBusinessDashboards/q19?publish=yes)
 
 **Description:** For this project I used Python to generate data tables for a pretend business. I made a customers table, orders table, categories table, and products table. The schema I created for the database is provided in the folder as well as the generated tables. After generating the tables I imported them into PgAdmin using postgreSQL in order to analyze the data and answer key business questions. All questions and queuries ran to answer them, as well as the resultant data, are in the above folder. In addition, I created dashboards using Tableau for some of the questions in order to help the audience easily view and understand the data collected using postgreSQL.
