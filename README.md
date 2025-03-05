@@ -206,8 +206,6 @@ The analysis identified eight companies in the Hardware and AI industries that m
 
 ### Cleaning Web Scraped Data for a Directory
 
-**Files:** [(Cleaning Alabama Data)](https://github.com/ariannalangton/Portfolio/tree/main/cleaning_webscraped_data)
-
 **Goal:** The data will be used to create a directory of Jiu-Jutsu gyms for each state, organized by city. The information is gathered through a web-scraping tool that will be used to search for jiu-jutsu gyms in certain cities for each state. My task was to select the appropriate cities and clean and filter the query data using specific criteria to ensure that only relevant gyms are included for each state.
 
 **Description:** The data collection process took place in two stages. First, I compiled a comprehensive list of cities for each state, removing those unlikely to serve marketing purposes, such as cities with small populations, to optimize the search query. Once the relevant cities were identified, I organized the list in Excel, ensuring it was formatted to work with the web scraping tool, which required the format “jiu-jutsu gym in [city] [state].” After proper formatting, the query was executed, and the data was gathered. 
@@ -266,7 +264,6 @@ For this project, a repeat caller is someone who calls again about the same issu
 
 
 ### EDA of TikTok Claim Classification
-**Dashboard:** [(TikTok Claim Dashboard on Tableau)](https://public.tableau.com/views/EDAofTiktokClaimClassification/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 **Goal:** Use TIkTok claim statistics to build easy to understand visualizations.
 
@@ -277,7 +274,6 @@ For this project, a repeat caller is someone who calls again about the same issu
 **Results:** By utilizing Tableau's plots and aggregation functions, I created a scatter plot to show the relationship between a videos like count and view count for claims and opinions. In addition, I visualized the total amount of claims v.s opinions, as well as an author status (active, banned, or under review) and the type of video posted by each status.
 
 ### Women Elected Officials
-**Dashboard IMG:** [(U.S Women Elected Officals Dashboard IMG)](https://github.com/ariannalangton/Portfolio/blob/main/tableau_dashboards/us_women_officials.png)
 
 **Tableau:** [(U.S Women Elected Officials Tableau Dashboard)](https://public.tableau.com/app/profile/arianna.langton5684/viz/U_SWomenElectedOfficialsDemographics/Dashboard2)
 
@@ -290,7 +286,6 @@ For this project, a repeat caller is someone who calls again about the same issu
 **Results:** Using Tableau, I found that 68% of women elected officials are White. The Democratic Party has the highest representation of women, accounting for 64% of all elected women. New Hampshire leads the states with the most elected women, comprising 5.9% of all women in office.
 
 ### Grocery Store KPI Dashboard
-**Dashboard:** [(Grocery Store KPI Dashboard IMG)](https://github.com/ariannalangton/Portfolio/blob/main/tableau_dashboards/super_market_KPI_dash.png)
 
 **Tableau:** [(Grocery Store KPI Tableau Dashboard)](https://public.tableau.com/app/profile/arianna.langton5684/viz/2015SalesDashboard_17313755663760/profitdashboard)
 
@@ -303,11 +298,9 @@ For this project, a repeat caller is someone who calls again about the same issu
 **Results:** Using Tableau, I discovered that sales for 2015 totaled 4.29M, reflecting a 26.2% increase compared to 2014. Additionally, profit saw a 23.8% year-to-date increase, while the quantity sold rose by 25.9%. The highest sales came from the Technology category, with Phones being the top sub-category. The region generating the most profit for the store was Asia, closely followed by Europe.
 
 ### Minnesota Traffic Volume Analysis
-**Dashboard:** [(Traffic Voulme Dashboard PDF)](https://github.com/ariannalangton/Portfolio/blob/main/tableau_dashboards/minnesotaTrafficVolume_dashboard.png)
-
 **Tableau:** [(Traffic Volume Dashboard on Tableau)](https://public.tableau.com/app/profile/arianna.langton5684/viz/MinnesotaTrafficVolumeDashboard_17376035629680/Story1)
 
-**Report:** [(Traffic Volume Analysis)](https://github.com/ariannalangton/Portfolio/blob/main/traffic_volume_analysis/Consulting%20Traffic%20Volume%20proposal.pdf)
+**Report:** [(Traffic Volume Analysis)](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/trafficVolumeAnalysis/trafficVolumeProposal.pdf)
 
 **Goal:** Create a Tableau dashboard to easily present patterns in traffic such as holidays, weather, time of day, and by year.
 
@@ -318,8 +311,6 @@ For this project, a repeat caller is someone who calls again about the same issu
 **Results:** Using Tableau, I found that August had the highest traffic volume, likely due to end-of-summer activities, while February had the lowest traffic. I also discovered that clear or cloudy days generally see the most traffic, with a decrease during rainy conditions, and the least traffic occurs when it’s foggy or visibility is impaired. Additionally, holidays like New Year’s Day and MLK Jr. Day in January, as well as Labor Day in September, contribute to traffic spikes. Analyzing traffic by hour and day reveals that it peaks during rush hours, as people commute to and from work, and also shows that holidays have minimal overall effect on traffic.
 
 ### League of Legends Statistics
-**Dashboard:** [(League of Legends V13 Statistics Dashboard IMG)](https://github.com/ariannalangton/Portfolio/blob/main/tableau_dashboards/league_of__ledgends_dashboard.png)
-
 **Tableau:** [(League of Legends Tableau Dashboard)](https://public.tableau.com/app/profile/arianna.langton5684/viz/leagueoflegendsstats/Dashboard2)
 
 **Goal:** Use League of Legends Champion statistics v13.1 from Kaggle to create a dashboard on Tableau. Analyzed champions and roles by most played, ban rate, and win rate.
