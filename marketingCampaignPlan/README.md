@@ -30,6 +30,17 @@ The goal of this marketing campaign was to identify the most effective areas to 
 
 ## Action Plan
 
+### Social Media Target Platforms
+
+   - Media Platform Insights:
+      - According to a graph from Comscore, the top media platform for all age groups is YouTube, followed by Facebook and Instagram. For younger generations, TikTok also ranks highly as a preferred platform.
+
+- Marketing Implications:
+
+   - For the target age group of 24-54, YouTube, Facebook, and Instagram should be the primary platforms for reaching a broad audience.
+TikTok can be considered for younger segments within the 24-54 range, particularly for those drawn to interactive and trend-driven content.
+A balanced, effective marketing strategy can be achieved by combining YouTube for mass reach and Facebook/Instagram for more targeted, age-specific engagement.
+
 ### Population
 
 - Priority: Focus marketing efforts on high-population areas, as population is the strongest predictor of sales.
@@ -50,6 +61,8 @@ The goal of this marketing campaign was to identify the most effective areas to 
 
 - Priority: Focus on zip codes with the highest projected population growth over the next five years, as these areas will likely see an increase in demand.
 - Action: Prioritize marketing strategies in areas where the population is projected to grow. Ensure that marketing campaigns are adaptable to emerging markets and continuously monitor population trends to adjust strategies for future success.
+
+
 
 ### Future Efforts:
 - Investigating Outliers
