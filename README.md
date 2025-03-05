@@ -41,3 +41,20 @@ This is a repository to showcase skills, share projects and track my progress in
  
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+
+## Education
+
+Illinois State University |
+Bachelor of Science, Physics |
+2019 - 2023
+
+## Certificates
+
+Google Data Analytics Professional Certificate (Aug 2024) (Coursera - Google) <br>
+Google Advanced Data Analytics Professional Certificate (Jan 2025) (Coursera - Google) <br>
+Google Business Intelligence Certificate (Jan 2025) (Coursera - Google)
+
+## Contacts
+- LinkedIn: [@ariannalangton](https://www.linkedin.com/in/arianna-langton-844b03252)
+- Email: anlangton00@gmail.com
+
