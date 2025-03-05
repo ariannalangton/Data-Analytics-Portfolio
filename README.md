@@ -11,14 +11,14 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#portfolio-projects)
   - [Python](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#Python)
-    -  [(Ad Campaign Comparison)](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#Analyzing-Ad-Platform-Success)
+    -  [(Ad Campaign Comparison)](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#Evaluating-the-Success-of-Social-Media-Platforms-for-an-Ad-Campaign)
     -  [(Marketing Budget ROI Analysis)](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#analyzing-marketing-campaigns-on-different-platforms)
       - [(Miscellanious Statistical Analysis Projects)](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/pythonProjects/misc_statsiticalAnalysisProjects) 
         - [(EDA of TikTok Claim Classification)](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#analyzing-tiktok-video-statistics)
         - [(Investment Analysis)](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#Analyzing-Industries-and-Countires-for-Investments)
         - [(Air Quality Analysis )](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#Air-Quality-Probability-Density)
         - [(Literacy Data Analysis)](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#Literacy-Data-Probability-Density)      
-        - [(NASA Meteorite Analysis)](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#Analyzing-Meteroite-Landings-Recorded-by-NASA)
+        - [(NASA Meteoritev Landings Analysis)](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#Analyzing-Meteroite-Landings-Recorded-by-NASA)
         - [(Chaotic Systems of Differential Equations)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Chaotic-Systems-of-Differenital-Equations)
   - [SQL](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#SQL)
     - [(Business Insights)](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#Generating-and-Analyzing-Business-Data)
@@ -44,7 +44,7 @@ This section provides a brief overview of each project, highlighting the technol
 
 ## Highlighted Projects
 
-### Comparing TikTok, Facebook, and Google for an Ad Success
+### Evaluating the Success of Social Media Platforms for an Ad Campaign
 
 **Overview:** [(Ad Platform Comparison)](https://github.com/ariannalangton/Portfolio/tree/main/ad_campaign_comparison)   
 
