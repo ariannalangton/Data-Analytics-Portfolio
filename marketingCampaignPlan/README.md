@@ -6,7 +6,7 @@ This file contains the final [marketing report](https://github.com/ariannalangto
 
 ## Objective
 
-The goal of this marketing campaign was to identify the most effective areas to target for increasing sales of boots, priced between $100-$150, to individuals aged 24-54. The campaign aimed to focus on both immediate sales and long-term growth. By analyzing factors like population, income, distance from the store, farm employees, and projected 5-year growth, the objective was to optimize marketing efforts and resources to drive both short-term success and future sustainability.
+The goal of this marketing campaign was to identify the most effective areas to target for increasing sales of boots, priced between $100-$150, to individuals aged 24-54. The campaign aimed to drive both immediate sales and long-term growth. The objective was to identify key drivers of sales, select high-potential zip codes, and choose optimal media platforms. This was achieved by analyzing factors such as population, income, and distance from the store. The ultimate aim was to optimize marketing efforts and resources, ensuring short-term success while laying the foundation for sustainable, long-term growth.
 
 ## Tools Used
 
@@ -26,7 +26,7 @@ The goal of this marketing campaign was to identify the most effective areas to 
 
 - Farm Employees: Initially showed a positive relationship but had a negative regression coefficient (-220), indicating that farm employees may not be a strong predictor for marketing success.
 
-- 5-Year Growth: Focus on zip codes with projected population growth over the next 5 years, as these areas are likely to experience higher demand.
+- 5-Year Growth: Focus on zip codes with projected population growth over the next 5 years, as these areas are likely to experience higher demand. Keep an eye on any areas with negative growth.
 
 ## Action Plan
 
@@ -50,3 +50,15 @@ The goal of this marketing campaign was to identify the most effective areas to 
 
 - Priority: Focus on zip codes with the highest projected population growth over the next five years, as these areas will likely see an increase in demand.
 - Action: Prioritize marketing strategies in areas where the population is projected to grow. Ensure that marketing campaigns are adaptable to emerging markets and continuously monitor population trends to adjust strategies for future success.
+
+### Future Efforts:
+- Investigating Outliers
+
+   - Ensures more accurate analysis by identifying and addressing anomalies, improving the overall reliability of marketing strategies.
+
+- Comparing Marketed vs. Unmarketed Areas ROI
+
+  - Helps identify high-performing areas and optimizes future campaigns by evaluating the effectiveness of marketing efforts.
+- Collecting More Data
+
+  - Gaining insights into repeat customers, specific sales categories, age, gender, and other demographics to enhance customer behavior understanding and enable more personalized marketing strategies.
