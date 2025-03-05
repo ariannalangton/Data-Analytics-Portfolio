@@ -13,7 +13,7 @@ This is a repository to showcase skills, share projects and track my progress in
   - [Python](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#Python)
     -  [(Ad Campaign Comparison)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Analyzing-Ad-Platform-Success)
     -  [(Marketing Platform ROI Analysis)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#analyzing-marketing-campaigns-on-different-platforms)
-      - [(Miscellanious Statistical Analysis Projects)] 
+      - [(Miscellanious Statistical Analysis Projects)](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/pythonProjects/misc_statsiticalAnalysisProjects) 
         - [(EDA of TikTok Claim Classification)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#analyzing-tiktok-video-statistics)
         - [(Investment Analysis)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Analyzing-Industries-and-Countires-for-Investments)
         - [(Air Quality Analysis )](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Air-Quality-Probability-Density)
