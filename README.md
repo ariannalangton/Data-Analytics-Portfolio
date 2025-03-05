@@ -36,7 +36,7 @@ This is a repository to showcase skills, share projects and track my progress in
       - [(Google Fiber Repeat Calls)](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#Google-Fiber-Repeat-Calls-Analysis)
       - [(EDA of TikTok Claim Classification)](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#EDA-of-TikTok-Claim-Classification)
 - [Education](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#education)  
-- [Certifications](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#certificates)
+- [Certifications](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#certifications)
 - [Contact](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#contacts)
  
 ## Portfolio Projects
