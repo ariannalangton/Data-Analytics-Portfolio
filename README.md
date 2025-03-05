@@ -8,9 +8,9 @@ In my spare time, I enjoy exploring new data analysis tools and techniques, alwa
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics.
 ## Table of Contents
-- [About](https://github.com/ariannalangton/Portfolio/blob/main/README.md#about)
-- [Portfolio Projects](https://github.com/ariannalangton/Portfolio/blob/main/README.md#portfolio-projects)
-  - [Python](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Python)
+- [About](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#about)
+- [Portfolio Projects](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#portfolio-projects)
+  - [Python](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#Python)
     -  [(Ad Campaign Comparison)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Analyzing-Ad-Platform-Success)
     -  [(Marketing Platform ROI Analysis)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#analyzing-marketing-campaigns-on-different-platforms)
       - [(Miscellanious Statistical Analysis Projects)] 
@@ -20,13 +20,13 @@ This is a repository to showcase skills, share projects and track my progress in
         - [(Literacy Data Analysis)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Literacy-Data-Probability-Density)      
         - [(NASA Meteorite Analysis)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Analyzing-Meteroite-Landings-Recorded-by-NASA)
         - [(Chaotic Systems of Differential Equations)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Chaotic-Systems-of-Differenital-Equations)
-  - [SQL](https://github.com/ariannalangton/Portfolio/blob/main/README.md#SQL)
+  - [SQL](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#SQL)
     - [(Business Insights)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Generating-and-Analyzing-Business-Data)
     - [(Business Optimization)]
-  - [Excel](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Excel-and-Sheets)
+  - [Excel](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#Excel-and-Sheets)
     - [Marketing Campaign Plan]
     - [(Clean Data for a Gym Directory)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Cleaning-Web-Scraped-Data-for-a-Directory)
-  - [Tableau](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Tableau)
+  - [Tableau](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#Tableau)
     - [(My Tableau Public)](https://public.tableau.com/app/profile/arianna.langton5684/vizzes)
       - [(Ad Campaign Comparison)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Ad-Campaign-Comparison)
       - [(Minnesota Traffic Volume Analysis)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Minnesota-Traffic-Volume-Analysis)
@@ -35,9 +35,9 @@ This is a repository to showcase skills, share projects and track my progress in
       - [(League of Legends V13.1 Statistics)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#League-of-Legends-Statistics)
       - [(Google Fiber Repeat Calls)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Google-Fiber-Repeat-Calls-Analysis)
       - [(EDA of TikTok Claim Classification)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#EDA-of-TikTok-Claim-Classification)
-- [Education](https://github.com/ariannalangton/Portfolio/blob/main/README.md#education)  
-- [Certificates](https://github.com/ariannalangton/Portfolio/blob/main/README.md#certificates)
-- [Contact](https://github.com/ariannalangton/Portfolio/blob/main/README.md#contacts)
+- [Education](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#education)  
+- [Certificates](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#certificates)
+- [Contact](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#contacts)
  
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
