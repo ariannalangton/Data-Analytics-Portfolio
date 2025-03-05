@@ -102,6 +102,10 @@ In this section I will list data analytics projects briefly describing the techn
   - While google had the lowest total cost, it had the lowest amount of clicks, which resulted in the low cost irregardless of it having the highest cost per click. Additionally, it had the worst click through and second lowest conversion rate. TikTok had the highest total cost, but it also had the most views resutling in the high cost despite it having the lowest cost per click. Facebook had the second lowest total cost and cost per click, as well as the second highest reach. Taking only cost and reach into account, TikTok would be the superior choice. However, taking all metrics into account, Facebook is the best choice.
   - Using facebook, the target demographic should be men and older age groups, as they were most likely to convert. If the time of day is going to be manually selected, the times should be either early mornings or lunch hours as that is when people in older age groups are more likely to be on social media and view the ad. Additionally, the ad should be catered to target families or couples, as revealed in the Google keyword search results.
 
+### Targeted Marketing Campaign Plan for Boots
+
+### Business Optimization
+
 ## Python
 
 ### Analyzing TikTok Video Statistics
@@ -210,6 +214,143 @@ The analysis identified eight companies in the Hardware and AI industries that m
 **Technology:** Python, Pandas, Numpy, Matplotlib, SciPy, mpl_toolkits.mplot3d
 
 **Results:** [(Results Report)](https://github.com/ariannalangton/Portfolio/blob/main/chaotic_systems/chaotic%20attractors%20results.pdf)
+
+## SQL
+
+### Generating and Analyzing Business Data
+
+**Files:** [(Generated Business Folder)](https://github.com/ariannalangton/Portfolio/blob/main/generated_business/README.md) <br>
+**Dashboard:** [(Tableau Dashboards for Questions)](https://public.tableau.com/app/profile/arianna.langton5684/viz/GeneratedBusinessDashboards/q19?publish=yes)
+
+**Description:** For this project I used Python to generate data tables for a pretend business. I made a customers table, orders table, categories table, and products table. The schema I created for the database is provided in the folder as well as the generated tables. After generating the tables I imported them into PgAdmin using postgreSQL in order to analyze the data and answer key business questions. All questions and queuries ran to answer them, as well as the resultant data, are in the above folder. In addition, I created dashboards using Tableau for some of the questions in order to help the audience easily view and understand the data collected using postgreSQL.
+
+## Excel
+
+### Cleaning Web Scraped Data for a Directory
+
+**Files:** [(Cleaning Alabama Data)](https://github.com/ariannalangton/Portfolio/tree/main/cleaning_webscraped_data)
+
+**Goal:** The data will be used to create a directory of Jiu-Jutsu gyms for each state, organized by city. The information is gathered through a web-scraping tool that will be used to search for jiu-jutsu gyms in certain cities for each state. My task was to select the appropriate cities and clean and filter the query data using specific criteria to ensure that only relevant gyms are included for each state.
+
+**Description:** The data collection process took place in two stages. First, I compiled a comprehensive list of cities for each state, removing those unlikely to serve marketing purposes, such as cities with small populations, to optimize the search query. Once the relevant cities were identified, I organized the list in Excel, ensuring it was formatted to work with the web scraping tool, which required the format “jiu-jutsu gym in [city] [state].” After proper formatting, the query was executed, and the data was gathered. 
+
+Once the data was received, I began cleaning it in Google Sheets, following specific guidelines. This initial cleanup involved removing gyms that were either located in the wrong state or lacked crucial details like names or addresses. Collaborating with the digital marketer, we established criteria to filter for promising gyms: we focused on those with over 10 reviews and filtered by categories and names containing terms such as BJJ, jiu, jutsu, MMA, martial, Gracie, and ground. We also conducted a final review to eliminate gyms that included terms like TKD, kung fu, or taekwondo, which might have slipped through the initial filters. 
+
+Next, I ensured that the city and address were placed in separate columns, as required by the marketer to import the gyms into the directory. This was done using the "text to columns" function in Excel. I also made any final formatting adjustments, such as removing blank rows, highlighting, or resizing rows as needed. 
+
+As a result, the total number of gyms in the list was significantly reduced. For Alabama, the count dropped from 429 to 73 key Jiu-jutsu gyms that were prioritized for inclusion in the directory.
+
+**Skills:** data cleaning, data analysis, metrics, google sheets, power query/ power tools
+
+**Technology:** google sheets, power tools, web scraping
+
+## Tableau
+
+### Ad Campaign Comparison
+
+**Dashboards on Tableau:**
+  - TikTok:
+    - [(TIikTok Demographics Dashboard)](https://public.tableau.com/app/profile/arianna.langton5684/viz/TikTokDemographicDataDashboards/Metrics)
+    - [(TikTok KPI Dashboard)](https://public.tableau.com/app/profile/arianna.langton5684/viz/TiktokAdMetricsDashboards/Story1)
+  - Facebook:
+    - [(Facebook Metrics Dashboard)](https://public.tableau.com/app/profile/arianna.langton5684/viz/FacebookAdCampaignReachAnalysis/Story1)
+  - Google
+    - [(Google Ad Dashboard)](https://public.tableau.com/app/profile/arianna.langton5684/viz/GoogleAdCampaignAnalysis/Story1#1)
+  - Overall Comparison
+    - [(Comparison Dashboard)](https://public.tableau.com/app/profile/arianna.langton5684/viz/AdPlatformComparison/Dashboard1)
+
+**Goal:** Create dashboards to allow viewers to easily interpret data and extract insights.
+
+**Description:** Design dashboards for each platform—Facebook, TikTok, and Google Ads—to showcase key metrics like time, CTR, CVR, impressions, and clicks, along with demographic data such as gender and age. This will enable viewers to easily analyze trends and make data-driven decisions.
+
+**Skills:** Tableau, Excel, data cleaning, data visualization, business metrics
+
+### Google Fiber Repeat Calls Analysis
+
+**Tableau Dashboard:** [(Google Fiber Dashboard)](https://public.tableau.com/app/profile/arianna.langton5684/viz/GooglefiberRepeatCallsAnalysis/Story1)
+
+**Goal:** Analyze the Google Fiber data and create a dashboard in order for viewer to easily find trends in inquiries.
+
+**Description:** I was given the following requirements when creating the dashboard. 
+  - Help the team understand how often customers are calling customer support after their first inquiry; this will help leadership understand how effectively the team is able to answer customer questions the first time.
+  - Provide insights into the types of customer issues that seem to generate more repeat calls
+  - Explore repeat caller trends in the three different market cities and explore the market and type with most callers.
+  - Design charts so that stakeholders can view trends by week, month, quarter, and year.
+For this project, a repeat caller is someone who calls again about the same issue within 7 days from their initial inquiry. This suggests that their issue was not properly solved with the first phone call. This is a problem for Google and needs to be evaluated, as their goal is to solve inquiries on the initial phone call.
+
+**Results:** Based on the dashboard data and analysis, it's evident that approximately 30% of customers make follow-up calls after their initial inquiry. Initial inquiries are most frequent on Mondays, while Tuesday through Friday show similar levels of inquiries. Market data reveals that Market 1 generates the most inquiries, with Type 2 calls receiving the highest number—accounting for over half of the inquiries—followed by Type 5, which makes up around 30%. Type 2 and Type 5 also dominate in other markets, particularly in Market 3, where Type 5 accounts for roughly 75% of the inquiries. Market 1 also tends to receive the highest number of repeat calls, which is expected given its overall higher volume of calls. Time-wise, initial inquiries peak on Mondays. Week 13 stands out with a notable increase in calls, suggesting a potential product release or update that may have caused issues that week. February recorded the lowest number of calls, while March had the highest, which aligns with Week 13 occurring in March. 
+  - Conclusion
+    - 30% of inquiries recieve a second call
+    - Monday seems to recieve the most initial inquiries, but further statistical analysis is needed to pinpoint the exact day that receives the highest volume.
+    - Market 1 seems to recieve the most repeat calls, while market 2 recieves significantly less repeat calls, but statistical analysis is needed to confirm which market actually receives the most.
+    - Call types 2 and 5 recieve the most inquries.
+    - Further analysis is needed to determine whether Week 13 is statistically significant and to explore the reasons behind the spike in calls during that period.
+
+
+### EDA of TikTok Claim Classification
+**Dashboard:** [(TikTok Claim Dashboard on Tableau)](https://public.tableau.com/views/EDAofTiktokClaimClassification/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+**Goal:** Use TIkTok claim statistics to build easy to understand visualizations.
+
+**Description:** The project aimed to analyze TikTok video user status, claim status, and video statistics such as like count, view count, video duration, and like count.
+
+**Skills:** Tableau, data visualization, box plots, scatter plot
+
+**Results:** By utilizing Tableau's plots and aggregation functions, I created a scatter plot to show the relationship between a videos like count and view count for claims and opinions. In addition, I visualized the total amount of claims v.s opinions, as well as an author status (active, banned, or under review) and the type of video posted by each status.
+
+### Women Elected Officials
+**Dashboard IMG:** [(U.S Women Elected Officals Dashboard IMG)](https://github.com/ariannalangton/Portfolio/blob/main/tableau_dashboards/us_women_officials.png)
+
+**Tableau:** [(U.S Women Elected Officials Tableau Dashboard)](https://public.tableau.com/app/profile/arianna.langton5684/viz/U_SWomenElectedOfficialsDemographics/Dashboard2)
+
+**Goal:** Create a Tableau dashboard on the demographics of U.S. women elected officials using data from cawp.rutgers.edu. Analyze race, political party, and state.
+
+**Description:** The project aimed to analyze the demographics of more than a thousand different women elected officials and find trends.
+
+**Skills:** data cleaning, data analysis, data visualization.
+
+**Results:** Using Tableau, I found that 68% of women elected officials are White. The Democratic Party has the highest representation of women, accounting for 64% of all elected women. New Hampshire leads the states with the most elected women, comprising 5.9% of all women in office.
+
+### Grocery Store KPI Dashboard
+**Dashboard:** [(Grocery Store KPI Dashboard IMG)](https://github.com/ariannalangton/Portfolio/blob/main/tableau_dashboards/super_market_KPI_dash.png)
+
+**Tableau:** [(Grocery Store KPI Tableau Dashboard)](https://public.tableau.com/app/profile/arianna.langton5684/viz/2015SalesDashboard_17313755663760/profitdashboard)
+
+**Goal:** Create a Tableau dashboard to easily present KPIs such as sales, profits, quantity sold, sales by region, and category wise sales.
+
+**Description:** Analyzed sales data from Kaggle for an anonymous supermarket. Created Tableau dashboards by analyzing sales KPIs for 2015 as well as geographical sales from 2012-2015.
+
+**Skills:** data cleaning, data analysis, data visualization, KPIs, Sales Metrics.
+
+**Results:** Using Tableau, I discovered that sales for 2015 totaled 4.29M, reflecting a 26.2% increase compared to 2014. Additionally, profit saw a 23.8% year-to-date increase, while the quantity sold rose by 25.9%. The highest sales came from the Technology category, with Phones being the top sub-category. The region generating the most profit for the store was Asia, closely followed by Europe.
+
+### Minnesota Traffic Volume Analysis
+**Dashboard:** [(Traffic Voulme Dashboard PDF)](https://github.com/ariannalangton/Portfolio/blob/main/tableau_dashboards/minnesotaTrafficVolume_dashboard.png)
+
+**Tableau:** [(Traffic Volume Dashboard on Tableau)](https://public.tableau.com/app/profile/arianna.langton5684/viz/MinnesotaTrafficVolumeDashboard_17376035629680/Story1)
+
+**Report:** [(Traffic Volume Analysis)](https://github.com/ariannalangton/Portfolio/blob/main/traffic_volume_analysis/Consulting%20Traffic%20Volume%20proposal.pdf)
+
+**Goal:** Create a Tableau dashboard to easily present patterns in traffic such as holidays, weather, time of day, and by year.
+
+**Description:** Analyzed sales data from Minnesota for any traffic patterns that could reveal a cause for high traffic volume.
+
+**Skills:** data analysis, dashboard visualization, tableau.
+
+**Results:** Using Tableau, I found that August had the highest traffic volume, likely due to end-of-summer activities, while February had the lowest traffic. I also discovered that clear or cloudy days generally see the most traffic, with a decrease during rainy conditions, and the least traffic occurs when it’s foggy or visibility is impaired. Additionally, holidays like New Year’s Day and MLK Jr. Day in January, as well as Labor Day in September, contribute to traffic spikes. Analyzing traffic by hour and day reveals that it peaks during rush hours, as people commute to and from work, and also shows that holidays have minimal overall effect on traffic.
+
+### League of Legends Statistics
+**Dashboard:** [(League of Legends V13 Statistics Dashboard IMG)](https://github.com/ariannalangton/Portfolio/blob/main/tableau_dashboards/league_of__ledgends_dashboard.png)
+
+**Tableau:** [(League of Legends Tableau Dashboard)](https://public.tableau.com/app/profile/arianna.langton5684/viz/leagueoflegendsstats/Dashboard2)
+
+**Goal:** Use League of Legends Champion statistics v13.1 from Kaggle to create a dashboard on Tableau. Analyzed champions and roles by most played, ban rate, and win rate.
+
+**Description:** The project aimed to analyze more than a hundred champions by examining their win, loss, ban, and pick rates. Additionally, I explored the same characteristics for each of the five possible roles.
+
+**Skills:** data cleaning, data analysis, data visualization.
+
+**Results:** By utilizing Tableau's built-in aggregation functions, I determined that Caitlyn was the most played champion, while Zed was the most banned. Furthermore, Singed had the highest win rate among all champions when played in the Mid role, and Mid being the role with the highest overall win rate. Additionally, I visualized the top 8 most played champions and the roles in which they are most frequently selected.
 
 ## Education
 
