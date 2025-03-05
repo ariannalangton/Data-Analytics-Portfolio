@@ -24,7 +24,7 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Business Insights](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#Generating-and-Analyzing-Business-Data)
     - [Business Optimization]
   - [Excel](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#Excel-and-Sheets)
-    - [Marketing Campaign Plan](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#Targeted-Marketing-Campaign-Plan-for-Boots)
+    - [Marketing Campaign Plan](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#Creating-a-Targeted-Marketing-Campaign-Plan-for-Boots)
     - [Cleaning Data for a Gym Directory](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#Cleaning-Web-Scraped-Data-for-a-Directory)
   - [Tableau](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#Tableau)
     - [My Tableau Public](https://public.tableau.com/app/profile/arianna.langton5684/vizzes)
@@ -102,7 +102,7 @@ This section provides a brief overview of each project, highlighting the technol
   - While google had the lowest total cost, it had the lowest amount of clicks, which resulted in the low cost irregardless of it having the highest cost per click. Additionally, it had the worst click through and second lowest conversion rate. TikTok had the highest total cost, but it also had the most views resutling in the high cost despite it having the lowest cost per click. Facebook had the second lowest total cost and cost per click, as well as the second highest reach. Taking only cost and reach into account, TikTok would be the superior choice. However, taking all metrics into account, Facebook is the best choice.
   - Using facebook, the target demographic should be men and older age groups, as they were most likely to convert. If the time of day is going to be manually selected, the times should be either early mornings or lunch hours as that is when people in older age groups are more likely to be on social media and view the ad. Additionally, the ad should be catered to target families or couples, as revealed in the Google keyword search results.
 
-### Targeted Marketing Campaign Plan for Boots
+### Creating A Targeted Marketing Campaign Plan for Boots
 **Project Files:** <br>
 [Marketing Campaign Plan Report](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/marketingCampaignPlan/cowboyBootsMarketingReport.pdf) <br>
 [Tableau Dashboard](https://public.tableau.com/app/profile/arianna.langton5684/viz/2019TargetZipCodes/Dashboard2)  <br>
