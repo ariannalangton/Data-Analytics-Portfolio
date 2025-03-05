@@ -18,7 +18,7 @@ The goal of this marketing campaign was to identify the most effective areas to 
 - Scatter Plots: Visualized the relationships between sales and different variables, helping identify trends and potential outliers.
 ## Outcome
 
--Population: Strongest predictor of sales with a positive correlation (R² = 0.94). Marketing efforts should be concentrated on high-population areas to maximize sales.
+- Population: Strongest predictor of sales with a positive correlation (R² = 0.94). Marketing efforts should be concentrated on high-population areas to maximize sales.
 
 - Income: Moderate correlation (R² = 0.2911). Target areas with median incomes of $40,000-$50,000, though income is a secondary factor.
 
