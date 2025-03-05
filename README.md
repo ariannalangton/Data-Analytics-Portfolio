@@ -36,7 +36,7 @@ This is a repository to showcase skills, share projects and track my progress in
       - [(Google Fiber Repeat Calls)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Google-Fiber-Repeat-Calls-Analysis)
       - [(EDA of TikTok Claim Classification)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#EDA-of-TikTok-Claim-Classification)
 - [Education](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#education)  
-- [Certificates](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#certificates)
+- [Certifications](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#certificates)
 - [Contact](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#contacts)
  
 ## Portfolio Projects
@@ -48,7 +48,7 @@ Illinois State University |
 Bachelor of Science, Physics |
 2019 - 2023
 
-## Certificates
+## Certifications
 
 Google Data Analytics Professional Certificate (Aug 2024) (Coursera - Google) <br>
 Google Advanced Data Analytics Professional Certificate (Jan 2025) (Coursera - Google) <br>
