@@ -19,7 +19,7 @@ This is a repository to showcase skills, share projects and track my progress in
         - [(Air Quality Analysis )](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#Air-Quality-Probability-Density)
         - [(Literacy Data Analysis)](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#Literacy-Data-Probability-Density)      
         - [(NASA Meteoritev Landings Analysis)](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#Analyzing-Meteroite-Landings-Recorded-by-NASA)
-        - [(Chaotic Systems of Differential Equations)](https://github.com/ariannalangton/Portfolio/blob/main/README.md#Chaotic-Systems-of-Differenital-Equations)
+        - [(Chaotic Systems of Differential Equations)](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#Chaotic-Systems-of-Differenital-Equations)
   - [SQL](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#SQL)
     - [(Business Insights)](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#Generating-and-Analyzing-Business-Data)
     - [(Business Optimization)]
@@ -46,17 +46,17 @@ This section provides a brief overview of each project, highlighting the technol
 
 ### Evaluating the Success of Social Media Platforms for an Ad Campaign
 
-**Overview:** [(Ad Platform Comparison)](https://github.com/ariannalangton/Portfolio/tree/main/ad_campaign_comparison)   
+**Overview:** [(Ad Platform Comparison)](https://github.com/ariannalangton/Data-Analytics-Portfolio/tree/main/artstudio_adPlatformComparison)   
 
-**Platform Folders:** <br> [(Facebook Ad Analysis)](https://github.com/ariannalangton/Portfolio/tree/main/ad_campaign_comparison/facebook) <br> [(TikTok Ad Analysis)](https://github.com/ariannalangton/Portfolio/tree/main/ad_campaign_comparison/tiktok) <br> [(Google Ad Analysis)](https://github.com/ariannalangton/Portfolio/tree/main/ad_campaign_comparison/google)
+**Platform Folders:** <br> [(Facebook Ad Analysis)](https://github.com/ariannalangton/Data-Analytics-Portfolio/tree/main/artstudio_adPlatformComparison/facebook) <br> [(TikTok Ad Analysis)](https://github.com/ariannalangton/Data-Analytics-Portfolio/tree/main/artstudio_adPlatformComparison/tiktok) <br> [(Google Ad Analysis)](https://github.com/ariannalangton/Data-Analytics-Portfolio/tree/main/artstudio_adPlatformComparison/google)
 
 **Code:**
   - TikTok <br>
-    - [(Tiktok Ads Statistical Analysis)](https://github.com/ariannalangton/Portfolio/blob/main/ad_campaign_comparison/tiktok/tiktok_analysis.ipynb)
+    - [(Tiktok Ads Statistical Analysis)](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/ad_campaign_comparison/tiktok/tiktok_analysis.ipynb)
   - Facebook <br>
-    - [(Facebook Ads Statistical Analysis)](https://github.com/ariannalangton/Portfolio/blob/main/ad_campaign_comparison/facebook/Facebook_Ad_Statistical_Analysis.ipynb)
+    - [(Facebook Ads Statistical Analysis)](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/ad_campaign_comparison/facebook/Facebook_Ad_Statistical_Analysis.ipynb)
   - Google <br>
-    - [(Google Ads Statistical Analysis)](https://github.com/ariannalangton/Portfolio/blob/main/ad_campaign_comparison/google/google_analysis.ipynb) 
+    - [(Google Ads Statistical Analysis)](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/ad_campaign_comparison/google/google_analysis.ipynb) 
 
 **Dashboards:** 
   - TikTok <br>
@@ -111,8 +111,8 @@ This section provides a brief overview of each project, highlighting the technol
 ### Analyzing TikTok Video Statistics
 
 **Code:** 
-[(TikTok Claim Analysis)](https://github.com/ariannalangton/Portfolio/blob/main/tiktok_claim_analysis/tiktok_video_stats.ipynb)
-[(Claim Hypthosesis Testing)](https://github.com/ariannalangton/Portfolio/blob/main/tiktok_claim_analysis/tiktok_hypothesis_testing.ipynb)
+[(TikTok Claim Analysis)](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/pythonProjects/misc_statisticalAnalysisProjects/tiktok_claim_analysis/tiktok_video_stats.ipynb)
+[(Claim Hypthosesis Testing)](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/pythonProjects/misc_statisticalAnalysisProjects/tiktok_claim_analysis/tiktok_hypothesis_testing.ipynb)
 
 **Dashboard:** [(EDA of TikTok Claim Classification)](https://public.tableau.com/app/profile/arianna.langton5684/viz/EDAofTiktokClaimClassification/Story1)
 
