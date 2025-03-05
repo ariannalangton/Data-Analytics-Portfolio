@@ -25,11 +25,11 @@ This is a repository to showcase skills, share projects and track my progress in
     - [(Business Optimization)]
   - [Excel](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#Excel-and-Sheets)
     - [Marketing Campaign Plan]
-    - [(Clean Data for a Gym Directory)](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#Cleaning-Web-Scraped-Data-for-a-Directory)
+    - [(Cleaning Data for a Gym Directory)](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#Cleaning-Web-Scraped-Data-for-a-Directory)
   - [Tableau](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#Tableau)
     - [(My Tableau Public)](https://public.tableau.com/app/profile/arianna.langton5684/vizzes)
-      - [(Ad Campaign Comparison)](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#Ad-Campaign-Comparison)
-      - [(Minnesota Traffic Volume Analysis)](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#Minnesota-Traffic-Volume-Analysis)
+      - [(Ad Platform Comparison)](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#Ad-Campaign-Comparison)
+      - [(Traffic Volume Analysis)](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#Minnesota-Traffic-Volume-Analysis)
       - [(U.S Women Elected Officals dashboard)](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#Women-Elected-Officials)
       - [(Grocery Store KPI Dashboard)](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#Grocery-Store-KPI-Dashboard)
       - [(League of Legends V13.1 Statistics)](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#League-of-Legends-Statistics)
@@ -40,7 +40,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Contact](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#contacts)
  
 ## Portfolio Projects
-In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+This section provides a brief overview of each project, highlighting the technology stack used, the main objective, and the final outcome.
 
 ## Highlighted Projects
 
