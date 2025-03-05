@@ -103,7 +103,7 @@ This section provides a brief overview of each project, highlighting the technol
   - Using facebook, the target demographic should be men and older age groups, as they were most likely to convert. If the time of day is going to be manually selected, the times should be either early mornings or lunch hours as that is when people in older age groups are more likely to be on social media and view the ad. Additionally, the ad should be catered to target families or couples, as revealed in the Google keyword search results.
 
 ### Targeted Marketing Campaign Plan for Boots
-**Project Files:**
+**Project Files:** <br>
 [Marketing Campaign Plan Report](https://github.com/ariannalangton/Data-Analytics-Portfolio/tree/main/marketingCampaignPlan) <br>
 [Tableau Dashboard](https://public.tableau.com/app/profile/arianna.langton5684/viz/2019TargetZipCodes/Dashboard2)  <br>
 [Excel Sheet](https://onedrive.live.com/:x:/g/personal/97CC7397B9703E85/EUDi2QVUaNdOkU-HSor9REABFLv8jw6NH--ADIs94SnMlg?resid=97CC7397B9703E85!s05d9e24068544ed7914f874a8afd4440&ithint=file%2Cxlsx&e=cObTPg&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy85N2NjNzM5N2I5NzAzZTg1L0VVRGkyUVZVYU5kT2tVLUhTb3I5UkVBQkZMdjhqdzZOSC0tQURJczk0U25NbGc_ZT1jT2JUUGc)
