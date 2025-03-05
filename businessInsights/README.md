@@ -30,10 +30,6 @@ For this project, I created data tables using [python](https://github.com/ariann
 
 #### Sales & Revenue Analysis
 
-- What is the total amount of orders per customer?
-    - Insights: Measures customer purchasing behavior to identify high-value customers.
-
-
 - What is the total revenue for each customer?
     - Insights: Helps segment customers by spending levels for targeted marketing.
 
