@@ -1,5 +1,9 @@
 # Targeted Marketing Campaign Plan for Cowboy Boots
 
+## Overview
+
+This file contains the [excel sheet](), final [marketing report], and a screenshot of the tableau dashboard created. Below is a description of the goals, tools used, outcome, and action plan for the marketing campaign.
+
 ## Objective
 
 The goal of this marketing campaign was to identify the most effective areas to target for increasing sales of boots, priced between $100-$150, to individuals aged 24-54. The campaign aimed to focus on both immediate sales and long-term growth. By analyzing factors like population, income, distance from the store, farm employees, and projected 5-year growth, the objective was to optimize marketing efforts and resources to drive both short-term success and future sustainability.
