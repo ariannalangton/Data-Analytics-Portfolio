@@ -128,26 +128,26 @@ The goal of this marketing campaign was to identify the most effective areas to 
 
 **Action Plan**
 
-***Population***
+- Population
 
-- Priority: Focus marketing efforts on high-population areas, as population is the strongest predictor of sales.
-- Action: Direct resources toward zip codes with large populations to maximize reach and sales potential. Prioritize these areas for short-term sales boosts while laying the groundwork for long-term growth.
-***Income***
+  - Priority: Focus marketing efforts on high-population areas, as population is the strongest predictor of sales.
+  - Action: Direct resources toward zip codes with large populations to maximize reach and sales potential. Prioritize these areas for short-term sales boosts while laying the groundwork for long-term growth.
+- Income
 
-- Priority: Target areas with higher income levels, particularly those with a median income of $40,000-$50,000, as these are more likely to afford $100-$150 shoes.
-- Action: Tailor messaging and promotions to attract consumers within this income range. While income is a secondary factor, ensure targeted campaigns in areas with higher disposable income for the best return.
-***Distance***
+  - Priority: Target areas with higher income levels, particularly those with a median income of $40,000-$50,000, as these are more likely to afford $100-$150 shoes.
+  - Action: Tailor messaging and promotions to attract consumers within this income range. While income is a secondary factor, ensure targeted campaigns in areas with higher disposable income for the best return.
+- Distance
 
-- Priority: Minimize marketing efforts in areas with high distance from the store, as there is a negative correlation between sales and distance.
-- Action: Focus on zip codes closer to the store location to increase accessibility and drive more foot traffic. Adjust marketing channels and offers to make these areas a priority for immediate sales.
-***Farm Employees***
+  - Priority: Minimize marketing efforts in areas with high distance from the store, as there is a negative correlation between sales and distance.
+  - Action: Focus on zip codes closer to the store location to increase accessibility and drive more foot traffic. Adjust marketing channels and offers to make these areas a priority for immediate sales.
+= Farm Employees
 
-- Priority: Although initially showing a positive correlation, farm employees have a negative regression coefficient, suggesting a decline in sales as the number of farm employees increases.
-- Action: Be cautious in targeting areas with a high number of farm employees, as this may not yield positive results. Instead, focus on areas with more reliable predictors like population and income for higher sales potential.
-***5-Year Growth***
+  - Priority: Although initially showing a positive correlation, farm employees have a negative regression coefficient, suggesting a decline in sales as the number of farm employees increases.
+  - Action: Be cautious in targeting areas with a high number of farm employees, as this may not yield positive results. Instead, focus on areas with more reliable predictors like population and income for higher sales potential.
+= 5-Year Growth
 
-- Priority: Focus on zip codes with the highest projected population growth over the next five years, as these areas will likely see an increase in demand.
-- Action: Prioritize marketing strategies in areas where the population is projected to grow. Ensure that marketing campaigns are adaptable to emerging markets and continuously monitor population trends to adjust strategies for future success.
+  - Priority: Focus on zip codes with the highest projected population growth over the next five years, as these areas will likely see an increase in demand.
+  - Action: Prioritize marketing strategies in areas where the population is projected to grow. Ensure that marketing campaigns are adaptable to emerging markets and continuously monitor population trends to adjust strategies for future success.
 
   
 ### Business Optimization
