@@ -2,24 +2,21 @@
 # Arianna Langton
 ##  About
 
-For this project, I received data from a paid digital media specialist who ran ads across Facebook, Google, and TikTok. I will conduct separate analyses for each 
-platform, as well as an overall comparison to determine which platform was the most successful based on several key metrics. For each individual analysis, I will 
-create Tableau dashboards to visualize the data and utilize Python for detailed analysis, including statistical methods like confidence intervals, 
-hypothesis tests, and regression analysis. This folder all dashboards and code created for the project, as well as any executive summaries created. Each platform is orgnaized into its own folder.
+This project involved analyzing marketing campaign performance across Facebook, Google, and TikTok. I performed individual analyses for each platform and an overall comparison to identify the most successful platform based on key metrics. Tableau dashboards were created to visualize the data, and Python was be used for detailed analysis, including statistical methods like confidence intervals, hypothesis tests, and regression analysis. This folder contains all dashboards and code created for the project, as well as any executive summaries created. Each platform is orgnaized into its own folder.
 ## Table of Contents    
-- [TikTok Statisical Analysis](https://github.com/ariannalangton/Portfolio/blob/main/ad_campaign_comparison/tiktok/README.md)
-  - [Jupyter Notebook](https://github.com/ariannalangton/Portfolio/blob/main/ad_campaign_comparison/tiktok/tiktok_analysis.ipynb)
+- [TikTok Statisical Analysis](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/artStudio_adPlatformComparison/tiktok/README.md)
+  - [Jupyter Notebook](https://github.com/ariannalangton/Data-Analytics-PortfolioPortfolio/blob/main/artStudio_adPlatformComparison/tiktok/tiktok_analysis.ipynb)
   - Tableau Dashboards
     - [Demographic Dashboard](https://public.tableau.com/app/profile/arianna.langton5684/viz/TikTokDemographicDataDashboards/Metrics)
     - [Metrics Dashboard](https://public.tableau.com/app/profile/arianna.langton5684/viz/TiktokAdMetricsDashboards/Story1)   
-- [Facebook Statistical Analysis](https://github.com/ariannalangton/Portfolio/blob/main/ad_campaign_comparison/facebook/README.md)
-  - [Jupyter Notebook](https://github.com/ariannalangton/Portfolio/blob/main/ad_campaign_comparison/facebook/Facebook_Ad_Statistical_Analysis.ipynb)
+- [Facebook Statistical Analysis](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/artStudio_adPlatformComparison/facebook/README.md)
+  - [Jupyter Notebook](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/artStudio_adPlatformComparison/facebook/Facebook_Ad_Statistical_Analysis.ipynb)
   - [Tableau Dashboards](https://public.tableau.com/app/profile/arianna.langton5684/viz/FacebookAdCampaignReachAnalysis/Story1)
-  - [Executive Summary](https://github.com/ariannalangton/Portfolio/blob/main/ad_campaign_comparison/facebook/Facebook%20Ads%20Executive%20Summary.pdf)
-- [Google Statistical Analysis](https://github.com/ariannalangton/Portfolio/tree/main/ad_campaign_comparison/google)
-  - [Jupyter Notebook](https://github.com/ariannalangton/Portfolio/blob/main/ad_campaign_comparison/google/google_analysis.ipynb)
+  - [Executive Summary](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/artStudio_adPlatformComparison/facebook/Facebook%20Ads%20Executive%20Summary.pdf)
+- [Google Statistical Analysis](https://github.com/ariannalangton/Data-Analytics-Portfolio/tree/main/artStudio_adPlatformComparison/google)
+  - [Jupyter Notebook](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/artStudio_adPlatformComparison/google/google_analysis.ipynb)
   - [Tableau Dashboards](https://public.tableau.com/app/profile/arianna.langton5684/viz/GoogleAdCampaignAnalysis/Story1)
-- [Overall Platform Comparison](https://github.com/ariannalangton/Portfolio/blob/main/ad_campaign_comparison/README.md#Overall)
+- [Overall Platform Comparison](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/artStudio_adPlatformComparison/README.md#Overall)
   - [Tableau Dashboards](https://public.tableau.com/app/profile/arianna.langton5684/viz/AdPlatformComparison/Dashboard1#1)
 
 **Results:** An overview of the results for each platform is below.
