@@ -56,7 +56,9 @@ This section provides a brief overview of each project, highlighting the technol
   - Facebook <br>
     - [(Facebook Ads Statistical Analysis)](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/artstudio__adPlatformComparison/facebook/Facebook_Ad_Statistical_Analysis.ipynb)
   - Google <br>
-    - [(Google Ads Statistical Analysis)](https://github.com/ariannalangton/Data-Analytics-Portfolio/tree/main/artstudio__adPlatformComparison/google/google_analysis.ipynb) 
+    - [(Google Ads Statistical Analysis)](https://github.com/ariannalangton/Data-Analytics-Portfolio/tree/main/artstudio__adPlatformComparison/google/google_analysis.ipynb)
+  - Overall Comparison <br>
+    - [(Comparison Report)](https://github.com/ariannalangton/Data-Analytics-Portfolio/tree/main/artstudio__adPlatformComparison/platformSuccessReports)
 
 **Dashboards:** 
   - TikTok <br>
