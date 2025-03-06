@@ -52,11 +52,11 @@ This section provides a brief overview of each project, highlighting the technol
 
 **Code:**
   - TikTok <br>
-    - [(Tiktok Ads Statistical Analysis)](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/ad_campaign_comparison/tiktok/tiktok_analysis.ipynb)
+    - [(Tiktok Ads Statistical Analysis)](https://github.com/ariannalangton/Data-Analytics-Portfolio/tree/main/ad_campaign_comparison/tiktok/tiktok_analysis.ipynb)
   - Facebook <br>
-    - [(Facebook Ads Statistical Analysis)](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/ad_campaign_comparison/facebook/Facebook_Ad_Statistical_Analysis.ipynb)
+    - [(Facebook Ads Statistical Analysis)](https://github.com/ariannalangton/Data-Analytics-Portfolio/tree/main/ad_campaign_comparison/facebook/Facebook_Ad_Statistical_Analysis.ipynb)
   - Google <br>
-    - [(Google Ads Statistical Analysis)](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/ad_campaign_comparison/google/google_analysis.ipynb) 
+    - [(Google Ads Statistical Analysis)](https://github.com/ariannalangton/Data-Analytics-Portfolio/tree/main/ad_campaign_comparison/google/google_analysis.ipynb) 
 
 **Dashboards:** 
   - TikTok <br>
