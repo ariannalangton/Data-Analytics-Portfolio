@@ -46,9 +46,10 @@ This section provides a brief overview of each project, highlighting the technol
 
 ### Evaluating the Success of Social Media Platforms for an Ad Campaign
 
-**Overview:** [(Ad Platform Comparison)](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/artstudio__adPlatformComparison) <br>
+**Overview:** <br>
+  - [(Ad Platform Comparison)](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/artstudio__adPlatformComparison) <br>
 **Overall Comparison** <br>
-    - [(Comparison Report)](https://github.com/ariannalangton/Data-Analytics-Portfolio/tree/main/artstudio__adPlatformComparison/platformSuccessReports)
+  - [(Comparison Report)](https://github.com/ariannalangton/Data-Analytics-Portfolio/tree/main/artstudio__adPlatformComparison/platformSuccessReports)
 
 
 **Platform Folders:** <br> [(Facebook Ad Analysis)](https://github.com/ariannalangton/Data-Analytics-Portfolio/tree/main/artstudio__adPlatformComparison/facebook) <br> [(TikTok Ad Analysis)](https://github.com/ariannalangton/Data-Analytics-Portfolio/tree/main/artstudio__adPlatformComparison/tiktok) <br> [(Google Ad Analysis)](https://github.com/ariannalangton/Data-Analytics-Portfolio/tree/main/artstudio__adPlatformComparison/google)
