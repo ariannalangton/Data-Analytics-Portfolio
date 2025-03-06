@@ -21,7 +21,7 @@ This is a repository to showcase skills, share projects and track my progress in
         - [NASA Meteoritev Landings Analysis](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#Analyzing-Meteroite-Landings-Recorded-by-NASA)
         - [Chaotic Systems of Differential Equations](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#Chaotic-Systems-of-Differenital-Equations)
   - [SQL](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#SQL)
-    - [Business Insights](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#Generating-and-Analyzing-Business-Data)
+    - [Business Insights](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#Business-Optimization)
     - [Business Optimization]
   - [Excel](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#Excel-and-Sheets)
     - [Marketing Campaign Plan](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#Creating-a-Targeted-Marketing-Campaign-Plan-for-Boots)
