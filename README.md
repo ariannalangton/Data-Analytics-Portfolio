@@ -186,29 +186,29 @@ The analysis reveals strong customer retention, with 97% of customers placing re
 
 1. Boost Sales in Low-Performing Months:
 
-  - Implement targeted promotions during slower months like June and December (e.g., end-of-year discounts, mid-year sales events).
-  - Increase marketing efforts through ads and email campaigns to drive engagement.
+    - Implement targeted promotions during slower months like June and December (e.g., end-of-year discounts, mid-year sales events).
+    - Increase marketing efforts through ads and email campaigns to drive engagement.
 2. Optimize Inventory and Reordering:
-  - Adjust stock levels based on reorder frequency analysis, prioritizing products with shorter reorder cycles.
-  - Implement automated reorder suggestions and personalized reminders for customers to increase repeat purchases.
+    - Adjust stock levels based on reorder frequency analysis, prioritizing products with shorter reorder cycles.
+    - Implement automated reorder suggestions and personalized reminders for customers to increase repeat purchases.
 3. Focus on High-Performing Products:
-  - Increase inventory and marketing efforts for top-selling products (1046, 1043, 1025, 1049, 1073) to maintain sales momentum.
-  - Consider highlighting these products in targeted campaigns, special offers, or loyalty programs.
+    - Increase inventory and marketing efforts for top-selling products (1046, 1043, 1025, 1049, 1073) to maintain sales momentum.
+    - Consider highlighting these products in targeted campaigns, special offers, or loyalty programs.
 4. Leverage Seasonal Trends and Category Performance:
-  - Promote beauty products during the holiday season when sales spike.
-  - Capitalize on the September surge for furniture by running seasonal promotions during back-to-school or fall sales.
-  - Focus on improving electronics sales through targeted marketing and discounts.
+    - Promote beauty products during the holiday season when sales spike.
+    - Capitalize on the September surge for furniture by running seasonal promotions during back-to-school or fall sales.
+    - Focus on improving electronics sales through targeted marketing and discounts.
 5. Enhance Customer Engagement and Loyalty:
-  - Introduce or optimize a loyalty rewards program to further encourage repeat purchases.
-  - Use customer segmentation to offer exclusive discounts or early access to new products for high-value customers.
+    - Introduce or optimize a loyalty rewards program to further encourage repeat purchases.
+    - Use customer segmentation to offer exclusive discounts or early access to new products for high-value customers.
 6. Cross-Category Bundling and Promotions:
 
-  - Encourage cross-category purchasing by creating bundled deals, leveraging the 97.97% of customers who buy from multiple categories.
-  - Promote category-specific bundles to increase average order value and customer engagement.
+    - Encourage cross-category purchasing by creating bundled deals, leveraging the 97.97% of customers who buy from multiple categories.
+    - Promote category-specific bundles to increase average order value and customer engagement.
 
 7. Monitor and Adjust Based on Data Trends:
-  - Regularly review sales, order frequency, and product performance data to adjust marketing, inventory, and pricing strategies.
-  - Stay agile to capitalize on emerging trends or shifts in customer behavior.
+    - Regularly review sales, order frequency, and product performance data to adjust marketing, inventory, and pricing strategies.
+    - Stay agile to capitalize on emerging trends or shifts in customer behavior.
 
 
 
