@@ -167,8 +167,8 @@ The goal of this marketing campaign was to identify the most effective areas to 
   
 ### Business Optimization
 
-**Project Folder:**
-**Business Analysis Report:**
+**Project Folder:** [Business Insights](https://github.com/ariannalangton/Data-Analytics-Portfolio/tree/main/businessInsights)
+**Business Analysis Report:** [Business Insights Report](https://github.com/ariannalangton/Data-Analytics-Portfolio/tree/main/businessInsights/businessInsightsReport.pdf)
 
 **Goal**
 Provide comprehensive business insights based on data analysis, enabling improved strategic decisions on customer behavior, sales, and product performance.
