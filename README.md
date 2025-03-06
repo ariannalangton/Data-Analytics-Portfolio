@@ -188,7 +188,6 @@ The analysis reveals strong customer retention, with 97% of customers placing re
 
   - Implement targeted promotions during slower months like June and December (e.g., end-of-year discounts, mid-year sales events).
   - Increase marketing efforts through ads and email campaigns to drive engagement.
-  - 
 2. Optimize Inventory and Reordering:
   - Adjust stock levels based on reorder frequency analysis, prioritizing products with shorter reorder cycles.
   - Implement automated reorder suggestions and personalized reminders for customers to increase repeat purchases.
