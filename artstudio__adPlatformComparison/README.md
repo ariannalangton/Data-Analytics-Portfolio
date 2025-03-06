@@ -4,7 +4,7 @@
 
 This project involved analyzing marketing campaign performance across Facebook, Google, and TikTok. I performed individual analyses for each platform and an overall comparison to identify the most successful platform based on key metrics. Tableau dashboards were created to visualize the data, and Python was be used for detailed analysis, including statistical methods like confidence intervals, hypothesis tests, and regression analysis. This folder contains all dashboards and code created for the project, as well as any executive summaries created. Each platform is orgnaized into its own folder.
 ## Table of Contents    
-- [TikTok Statisical Analysis](https://github.com/ariannalangton/Data-Analytics-Portfolio/tree/main/artStudio_adPlatformComparison/tiktok/README.md)
+- [TikTok Statisical Analysis](https://github.com/ariannalangton/Data-Analytics-Portfolio/tree/main/artStudio_adPlatformComparison/tiktok)
   - [Jupyter Notebook](https://github.com/ariannalangton/Data-Analytics-PortfolioPortfolio/tree/main/artStudio_adPlatformComparison/tiktok/tiktok_analysis.ipynb)
   - Tableau Dashboards
     - [Demographic Dashboard](https://public.tableau.com/app/profile/arianna.langton5684/viz/TikTokDemographicDataDashboards/Metrics)
