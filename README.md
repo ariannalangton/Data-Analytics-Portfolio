@@ -78,7 +78,7 @@ This section provides a brief overview of each project, highlighting the technol
 
 **Skills:** data cleaning, data analysis, data visualization, statisical analysis, hypothesis testing.
 
-**Technology:** Python, Pandas, Numpy, Matplotlib, scipy, tableau
+**Tools:** Python, Pandas, Numpy, Matplotlib, scipy, tableau
 
 **Results:** An overview of the results for each platform is below.
 - Facebook
@@ -117,7 +117,7 @@ This section provides a brief overview of each project, highlighting the technol
 
 The goal of this marketing campaign was to identify the most effective areas to target for increasing sales of boots, priced between $100-$150, to individuals aged 24-54. The campaign aimed to drive both immediate sales and long-term growth. The objective was to identify key drivers of sales, select high-potential zip codes, and choose optimal media platforms. This was achieved by analyzing factors such as population, income, and distance from the store. The ultimate aim was to optimize marketing efforts and resources, ensuring short-term success while laying the foundation for sustainable, long-term growth.
 
-**Technology** Excel, Tableau, PowerPoint, Statistical Analysis (Multi Regression Analysis, Correlation Coefficients, Scatter Plots, Box Plots, Standard Deviation)
+**Tools** Excel, Tableau, PowerPoint, Statistical Analysis (Multi Regression Analysis, Correlation Coefficients, Scatter Plots, Box Plots, Standard Deviation)
 
 **Results**
 
@@ -166,6 +166,59 @@ The goal of this marketing campaign was to identify the most effective areas to 
 
   
 ### Business Optimization
+
+**Project Folder:**
+**Business Analysis Report:**
+
+**Goal**
+Provide comprehensive business insights based on data analysis, enabling improved strategic decisions on customer behavior, sales, and product performance.
+
+**Description:**
+Created data tables with Python, imported them into PGAdmin 4, and built a database following a custom snowflake schema. Analyzed the data using PostgreSQL to answer critical business questions, and visualized the results using Tableau for better understanding and decision-making.
+
+**Tools:** Excel, SQL, PgAdmin 4, Python, Tableau, PowerPoint
+
+**Results**
+
+The analysis reveals strong customer retention, with 97% of customers placing repeat orders and a consistent demand for top-selling products. However, some months, particularly June and December, showed lower orders and revenue, signaling the need for targeted promotional strategies during these periods. Beauty products dominated sales, especially in the later months, while electronics performed poorly, suggesting the need for focused marketing to boost underperforming categories. Reorder frequency insights indicate opportunities to optimize inventory and improve reorder strategies through loyalty programs and targeted promotions. To capitalize on trends, businesses should focus on cross-category bundling, inventory adjustments, and engaging high-value customers to maintain steady growth and enhance profitability.
+
+**Action Plan** 
+
+1. Boost Sales in Low-Performing Months:
+
+  - Implement targeted promotions during slower months like June and December (e.g., end-of-year discounts, mid-year sales events).
+  - Increase marketing efforts through ads and email campaigns to drive engagement.
+  - 
+2. Optimize Inventory and Reordering:
+  - Adjust stock levels based on reorder frequency analysis, prioritizing products with shorter reorder cycles.
+  - Implement automated reorder suggestions and personalized reminders for customers to increase repeat purchases.
+3. Focus on High-Performing Products:
+  - Increase inventory and marketing efforts for top-selling products (1046, 1043, 1025, 1049, 1073) to maintain sales momentum.
+  - Consider highlighting these products in targeted campaigns, special offers, or loyalty programs.
+4. Leverage Seasonal Trends and Category Performance:
+  - Promote beauty products during the holiday season when sales spike.
+  - Capitalize on the September surge for furniture by running seasonal promotions during back-to-school or fall sales.
+  - Focus on improving electronics sales through targeted marketing and discounts.
+5. Enhance Customer Engagement and Loyalty:
+  - Introduce or optimize a loyalty rewards program to further encourage repeat purchases.
+  - Use customer segmentation to offer exclusive discounts or early access to new products for high-value customers.
+6. Cross-Category Bundling and Promotions:
+
+  - Encourage cross-category purchasing by creating bundled deals, leveraging the 97.97% of customers who buy from multiple categories.
+  - Promote category-specific bundles to increase average order value and customer engagement.
+
+7. Monitor and Adjust Based on Data Trends:
+  - Regularly review sales, order frequency, and product performance data to adjust marketing, inventory, and pricing strategies.
+  - Stay agile to capitalize on emerging trends or shifts in customer behavior.
+
+
+
+
+
+
+
+
+
 
 ## Python
 
