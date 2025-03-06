@@ -30,6 +30,9 @@ The goal of this marketing campaign was to identify the most effective areas to 
 
 ## Action Plan
 
+## Summary
+According to media platform insights, YouTube is the leading platform for all age groups, followed by Facebook and Instagram, with TikTok ranking highly among younger generations within the 24-54 age group. For marketing, it’s recommended to prioritize YouTube, Facebook, and Instagram for broad reach, while TikTok can be used to target younger segments drawn to interactive content. To maximize sales, marketing efforts should focus on high-population areas, particularly those with a median income of $40,000-$50,000, as these regions are more likely to afford higher-priced products. Additionally, marketing should be concentrated in zip codes closer to the store, minimizing efforts in areas with greater distances. Avoid targeting areas with a high number of farm employees, as this has shown a negative sales correlation. Lastly, focus on zip codes with projected population growth to ensure long-term demand. Future efforts should include investigating outliers, comparing ROI from marketed versus unmarketed areas, and gathering more customer demographic data to fine-tune marketing strategies and improve targeting.
+
 ### Social Media Target Platforms
 
    - Media Platform Insights:
