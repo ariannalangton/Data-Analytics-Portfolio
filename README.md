@@ -9,7 +9,7 @@ In my spare time, I enjoy exploring new data analysis tools and techniques, alwa
 This is a repository to showcase skills, share projects and track my progress in Data Analytics.
 ## Table of Contents
 - [About](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#about)
-- [Portfolio Projects](https://github.com/ariannalangton/Data-Analytics-Portfolio/tree/main/README.md#portfolio-projects)
+- [Portfolio Projects](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#portfolio-projects)
   - [Python](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#Python)
     -  [Ad Campaign Comparison](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#Evaluating-the-Success-of-Social-Media-Platforms-for-an-Ad-Campaign)
     -  [Marketing Budget ROI Analysis](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/README.md#analyzing-marketing-campaigns-on-different-platforms)
