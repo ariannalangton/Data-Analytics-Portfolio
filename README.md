@@ -48,7 +48,7 @@ This section provides a brief overview of each project, highlighting the technol
 
 **Overview:** <br>
   - [(Ad Platform Comparison Introduction)](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/artstudio__adPlatformComparison)
-  - [(Comparison Report)](https://github.com/ariannalangton/Data-Analytics-Portfolio/tree/main/artstudio__adPlatformComparison/platformSuccessReports)
+  - [(Marketing Report)](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/artstudio__adPlatformComparison/platformSuccessReports/adCampaignAnalysisReport.pdf)
 
 
 **Platform Folders:** <br> [(Facebook Ad Analysis)](https://github.com/ariannalangton/Data-Analytics-Portfolio/tree/main/artstudio__adPlatformComparison/facebook) <br> [(TikTok Ad Analysis)](https://github.com/ariannalangton/Data-Analytics-Portfolio/tree/main/artstudio__adPlatformComparison/tiktok) <br> [(Google Ad Analysis)](https://github.com/ariannalangton/Data-Analytics-Portfolio/tree/main/artstudio__adPlatformComparison/google)
