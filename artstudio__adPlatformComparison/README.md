@@ -17,6 +17,7 @@ This project involved analyzing marketing campaign performance across Facebook, 
   - [Jupyter Notebook](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/artstudio__adPlatformComparison/google/google_analysis.ipynb)
   - [Tableau Dashboards](https://public.tableau.com/app/profile/arianna.langton5684/viz/GoogleAdCampaignAnalysis/Story1)
 - [Overall Platform Comparison](https://github.com/ariannalangton/Data-Analytics-Portfolio/tree/main/artstudio__adPlatformComparison/platformSuccessReports)
+  - [Marketing Strategy Report](https://github.com/ariannalangton/Data-Analytics-Portfolio/blob/main/artstudio__adPlatformComparison/platformSuccessReports/adCampaignAnalysisReport.pdf) 
   - [Tableau Dashboards](https://public.tableau.com/app/profile/arianna.langton5684/viz/AdPlatformComparison/Dashboard1#1)
 
 **Results:** An overview of the results for each platform is below.
